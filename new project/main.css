@@ -1,0 +1,19 @@
+.c1{
+    background-color: aqua;
+    border: 2px solid blue;
+    height:700px ;
+    width: 90%;
+    margin: 20px;
+    padding: 10px 10px;
+    text-align: justify;
+}
+#c2{
+
+   background-color: aqua;
+    border: 2px solid blue;
+    height:30px ;
+    width: 90%;
+    margin: 250px 100px 10px 20px;
+    padding: 10px 10px;
+    text-align: justify;
+}
